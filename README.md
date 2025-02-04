@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! I'm Mazen 👋
+---
+💫 About me
+---
+- 💬 I'm interested in Data Analysis, Web Development, Machine Learning, and Software Engineering.
 
 <!--
 **mazenayyad/mazenayyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
