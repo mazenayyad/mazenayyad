@@ -1,5 +1,4 @@
 ## Hello! I'm Mazen 👋
----
 💫 About me
 ---
 - 💬 I'm interested in Data Analysis, Web Development, Machine Learning, and Software Engineering.
