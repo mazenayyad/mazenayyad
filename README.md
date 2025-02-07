@@ -6,9 +6,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazenayyad&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=mazenayyad&theme=highcontrast&hide_border=true)
-
-
 <!--
 **mazenayyad/mazenayyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
