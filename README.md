@@ -4,6 +4,8 @@
 ⚡ I'm a 2nd Year Computer Science Student @ Qatar University.  
 💬 I'm interested in Data Analysis, Web Development, Machine Learning, and Software Engineering.
 
+![mazenayyad's Stats](https://github-readme-stats.vercel.app/api?username=mazenayyad&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
 <!--
 **mazenayyad/mazenayyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
