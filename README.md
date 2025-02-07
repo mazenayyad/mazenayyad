@@ -3,7 +3,7 @@
 ---
 ⚡ I'm a 2nd Year Computer Science Student @ Qatar University.  
 💬 I'm interested in Data Analysis, Web Development, Machine Learning, and Software Engineering.
----
+
 ![GitHub Stats](https://streak-stats.demolab.com?user=mazenayyad&theme=highcontrast&hide_border=true)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
