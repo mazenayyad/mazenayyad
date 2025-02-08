@@ -1,4 +1,4 @@
-## Hi! I'm Mazen 👋
+## Hello! I'm Mazen 👋
 💫 About me
 ---
 ⚡ I'm a 2nd Year Computer Science Student @ Qatar University.  
